@@ -33,8 +33,6 @@ cout << "\n\n     ||********** WELCOME TO STOCK room/inventory MANAGEMENT ******
 
 ~shop()
 {
-      cout << "\n\tMini Project by - 29_C_IT_Suchit Navghare  &  30_C_IT_Sudhanshu Sonare\n";
-      cout << "\n\t\tSubmitted to - Prof. Chetan Dhule\n";
       cout << "\n\t\t\t** THANK YOU ** \n";
       cout << "\n--------------------------xxxx XXX xxx--------------------------------------\n";
 
